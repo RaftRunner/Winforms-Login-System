@@ -1,0 +1,11 @@
+C:\Users\Tyler\source\repos\loginsystem\loginsystem\bin\Debug\loginsystem.exe.config
+C:\Users\Tyler\source\repos\loginsystem\loginsystem\bin\Debug\loginsystem.exe
+C:\Users\Tyler\source\repos\loginsystem\loginsystem\bin\Debug\loginsystem.pdb
+C:\Users\Tyler\source\repos\loginsystem\loginsystem\obj\Debug\loginsystem.csproj.AssemblyReference.cache
+C:\Users\Tyler\source\repos\loginsystem\loginsystem\obj\Debug\loginsystem.Form1.resources
+C:\Users\Tyler\source\repos\loginsystem\loginsystem\obj\Debug\loginsystem.Properties.Resources.resources
+C:\Users\Tyler\source\repos\loginsystem\loginsystem\obj\Debug\loginsystem.csproj.GenerateResource.cache
+C:\Users\Tyler\source\repos\loginsystem\loginsystem\obj\Debug\loginsystem.csproj.CoreCompileInputs.cache
+C:\Users\Tyler\source\repos\loginsystem\loginsystem\obj\Debug\loginsystem.exe
+C:\Users\Tyler\source\repos\loginsystem\loginsystem\obj\Debug\loginsystem.pdb
+C:\Users\Tyler\source\repos\loginsystem\loginsystem\obj\Debug\loginsystem.register_form.resources
